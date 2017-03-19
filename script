@@ -1,0 +1,22 @@
+circle
+250 250 0 200
+circle
+175 160 0 15
+circle
+325 160 0 15
+hermite
+75 225 225 175 0 75 0 -75
+hermite
+75 225 225 175 0 -75 0 75
+hermite
+275 175 425 225 0 75 0 -75
+hermite
+275 175 425 225 0 -75 0 75
+hermite
+200 100 300 100 0 30 0 -30
+hermite
+200 100 300 100 0 -30 0 30
+display
+save
+face.png
+
